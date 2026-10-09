@@ -1,0 +1,4 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+ezdxf==1.4.4
+matplotlib==3.10.0
